@@ -1,0 +1,7 @@
+- 👋 Olá, eu sou @glaucio-servi
+- 👀 Estou interessado em computação em nuvem, engenharia de dados e soluções de machine learning.
+- 🌱 Atualmente estou aprendendo tópicos avançados em Google Cloud e Kubernetes.
+- 💞️ Estou buscando colaborar em projetos inovadores na nuvem e soluções orientadas a dados.
+- 📫 Como me encontrar: [https://www.linkedin.com/in/glaucio-martins/]
+- 😄 Pronomes: Ele/Dele
+- ⚡ Curiosidade: Sou apaixonado por usar tecnologia para resolver problemas do mundo real e assistir jogos de Futebol.
